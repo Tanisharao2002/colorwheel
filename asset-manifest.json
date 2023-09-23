@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/colorwheel/static/css/main.bfb2670d.css",
+    "main.css": "/colorwheel/static/css/main.230940be.css",
     "main.js": "/colorwheel/static/js/main.8a3abfa7.js",
     "static/js/787.e115809e.chunk.js": "/colorwheel/static/js/787.e115809e.chunk.js",
     "index.html": "/colorwheel/index.html",
-    "main.bfb2670d.css.map": "/colorwheel/static/css/main.bfb2670d.css.map",
+    "main.230940be.css.map": "/colorwheel/static/css/main.230940be.css.map",
     "main.8a3abfa7.js.map": "/colorwheel/static/js/main.8a3abfa7.js.map",
     "787.e115809e.chunk.js.map": "/colorwheel/static/js/787.e115809e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfb2670d.css",
+    "static/css/main.230940be.css",
     "static/js/main.8a3abfa7.js"
   ]
 }
